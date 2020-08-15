@@ -45,8 +45,8 @@
 
   [Github Repository](https://github.com/kurt-austin/NoteTaker)
 
-  [Heroku Repository](https://git.heroku.com/still-falls-29479.git)
+  [Heroku Repository](https://git.heroku.com/blooming-journey-54402.git)
 
-  [Note Taker Deployed App]( https://still-falls-29479.herokuapp.com/)
+  [Note Taker Deployed App](https://blooming-journey-54402.herokuapp.com/)
 
   [Contact](kurt.austin@gmail.com)
