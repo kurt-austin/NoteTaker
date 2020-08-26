@@ -104,7 +104,7 @@ app.delete("/api/notes/:id", function (req, res) {
   notes = JSON.stringify(notes);
 
   // Write to the file   
-  fs.writeFile("./db/db.json", notes, "utf8", function (err) {
+  fs.writeFileSync("./db/db.json", notes, "utf8", function (err) {
     // error handling
     if (err) throw err;
   });
